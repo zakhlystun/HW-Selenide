@@ -94,7 +94,7 @@
       <recent name="C:\Users\szakhlystun\IdeaProjects\Selenide" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.cardOrderTesting.CardOrderForm">
+  <component name="RunManager" selected="Gradle.CardOrderTesting">
     <configuration name="CardOrderTest.shouldBeSuccessfulForm (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -217,10 +217,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CardOrderTesting" />
         <item itemvalue="Gradle.cardOrderTesting.CardOrderForm" />
         <item itemvalue="Gradle.cardOrderTesting" />
         <item itemvalue="Gradle.CardOrderTesting.CardOrderForm" />
-        <item itemvalue="Gradle.CardOrderTesting" />
         <item itemvalue="Gradle.CardOrderTest.shouldBeSuccessfulForm (1)" />
       </list>
     </recent_temporary>
@@ -241,7 +241,20 @@
       <option name="presentableId" value="Default" />
       <updated>1711531262628</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1711541662064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711541662064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
