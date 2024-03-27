@@ -11,12 +11,12 @@ import java.time.format.DateTimeFormatter;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class cardOrderTesting {
+public class CardOrderTesting{
     private String generateDate(int addDays, String pattern){
         return LocalDate.now().plusDays(addDays).format(DateTimeFormatter.ofPattern(pattern));
     }
     @Test 
-    void CardOrderForm (){
+    void cardOrderForm (){
         open("http://localhost:9999");
         $("[data-test-id='city'] input").setValue("Тула");
         String planningDate = generateDate(4, "dd.MM.yyyy");
